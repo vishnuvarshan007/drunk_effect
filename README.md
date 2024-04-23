@@ -1,4 +1,4 @@
-FiveM Drunk Effect Script
+FiveM Drunk Effect Script for ESX Framework
 
 This repository contains a script for the FiveM role-playing game that applies a drunk effect to a player character when they use certain items. The effect includes a drunk walking animation, a screen effect, and a camera shake effect. This script is compatible with the ox_inventory system.
 
